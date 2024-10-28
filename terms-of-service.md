@@ -1,54 +1,54 @@
-# Hizmet Şartları
+# Terms of Service
 
-Bu Hizmet Şartları ("Şartlar", "Şartlar ve Koşullar"), "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanım koşullarını açıklamak ve açıkça belirtmek üzere oluşturulmuştur. İşbu "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botuna ilişkin Hizmet Koşulları, yayınlanmakla yürürlüğe girer. Değişiklik yapma hakkı, tek taraflı olarak Uptime Boat Geliştiricilerine aittir. Güncel olarak paylaşılacak olan bu değişiklikleri, tüm kullanıcılarımız baştan kabul etmiş sayılır.
+These Terms of Service ("Terms", "Terms and Conditions") are created to explain and explicitly state the conditions for the use of the Discord bot known as "Uptime Boat" (Discord ID: "977247733234671676"). The Terms of Service regarding the "Uptime Boat" (Discord ID: "977247733234671676") will come into effect upon publication. The right to make changes is solely reserved for the Uptime Boat Developers. All users are considered to have accepted these changes that will be shared in the future.
 
-## Tanımlar
-Bu bölümde geçen terimlerin anlamları:
-- **Bot:** "Uptime Boat" olarak bilinen Discord botu. (Uptime Boat#7842) (Discord ID: "977247733234671676")
-- **Hizmet:** Discord botu üzerinden sunulan her türlü işlevsellik ve hizmet.
-- **Kullanıcı:** Discord üzerinden botu kullanan herhangi bir kullanıcı.
-- **Sunucu:** Botun kullanıldığı Discord sunucusu.
+## Definitions
+The meanings of the terms used in this section:
+- **Bot:** The Discord bot known as "Uptime Boat." (Uptime Boat#7842) (Discord ID: "977247733234671676")
+- **Service:** Any functionality and service provided through the Discord bot.
+- **User:** Any user who uses the bot via Discord.
+- **Server:** The Discord server where the bot is used.
 
-## 1. Hizmet Kapsamı
-- Sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız değişiklikler, Botda yayınlanmakla yürürlüğe girmiş sayılacaktır.
+## 1. Scope of Service
+- We are completely free to determine the scope and nature of the services we offer within the framework of the law; any changes we make regarding the services will be considered effective upon publication in the Bot.
 
-- Bot, Discord sunucularında kullanılmak üzere tasarlanmıştır. Botun kullanımı, Discord Hizmet Şartları'na (https://discord.com/terms) ve Topluluk Kuralları'na (https://discord.com/guidelines) uygun uygun olarak gerçekleştirilmelidir.
+- The bot is designed to be used on Discord servers. The use of the bot must be conducted in accordance with Discord's Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines).
 
-## 2. Sorumluluk Reddi
-- Bot, mevcut durumuyla sunulur ve herhangi bir garanti vermez.
+## 2. Disclaimer
+- The bot is provided as is and does not guarantee any warranties.
 
-- Botun kullanımı tamamen kullanıcının sorumluluğundadır. Botun geliştiricileri, botun kullanımından kaynaklanan herhangi bir veri kaybı, kesinti, zarar veya oluşabilecek aksaklıklardan sorumlu tutulamaz.
+- The use of the bot is entirely the user's responsibility. The developers of the bot cannot be held responsible for any data loss, interruptions, damages, or potential disruptions arising from the use of the bot.
 
-- Kullanıcıların tamamı, Botu yalnızca hukuka uygun ve şahsi amaçlarla kullanacaklarını taahhüt eder. Bot dâhilinde yaptıkları işlem ve eylemlerindeki, hukuki ve cezai sorumlulukları kendilerine aittir.
+- All users agree to use the Bot solely for lawful and personal purposes. They are solely responsible for their legal and criminal liability regarding any actions and operations they perform within the Bot.
 
-- Kullanıcılar, Botu yasal amaçlar doğrultusunda kullanmalıdır. Botun kötüye kullanılması veya hizmetin doğrudan veya dolaylı olarak zarar görmesinden kullanıcılar sorumludur.
+- Users must use the Bot for legal purposes. Users are responsible for any misuse of the bot or any direct or indirect damage to the service.
 
-- Yasaklara ve kullanım şartlarına uyulmadığı takdirde botun geliştiricileri kullanıcıyı hizmetten men etme yetkisine sahiptir.
+- In case of non-compliance with prohibitions and usage conditions, the bot developers have the authority to deny the user access to the service.
 
-- Kullanıcılar, Discord hesaplarından kaynaklanan güvenlik risklerinden kendileri sorumludur.
+- Users are responsible for security risks arising from their Discord accounts.
 
-## 3. Gizlilik
-- Gizlilik, ayrı bir sayfada, kişisel verilerinizin tarafımızca işlenmesinin esaslarını düzenlemek üzere mevcuttur. Botu kullandığınız takdirde, bu verilerin işlenmesinin gizlilik politikasına uygun olarak gerçekleştiğini kabul edersiniz.
+## 3. Privacy
+- Privacy is regulated on a separate page to set out the principles regarding the processing of your personal data. By using the bot, you acknowledge that the processing of this data occurs in accordance with the privacy policy.
 
-## 4. Telif Hakları
-- Botun üzerinde yayınlanan tüm metin, kod, logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi (bundan böyle ve daha sonra "içerik" olarak anılacaktır) Bot Geliştiricileri olup, tüm hakları saklıdır. Yazılı izin verilmeden içeriğinin çoğaltılması veya kopyalanması kesinlikle yasaktır.
+## 4. Copyright
+- All text, code, logos, images, audio files, and software used on the bot are owned by the Bot Developers (hereinafter referred to as "content"), and all rights are reserved. Reproduction or copying of the content without written permission is strictly prohibited.
 
-## 5. Genel Hükümler
-- Botda sunulan hizmetlerde, kusur veya hata olmayacağına ya da kesintisiz hizmet verileceğine dair garanti vermemekteyiz. Botun hizmetlerine veya herhangi bir bölümüne olan erişiminizi önceden bildirmeksizin herhangi bir zamanda sonlandırabiliriz.
+## 5. General Provisions
+- We do not guarantee that there will be no defects or errors in the services provided by the Bot or that uninterrupted service will be provided. We may terminate your access to the Bot's services or any part of it at any time without prior notice.
 
-- Geliştiriciler, hizmetin planlı bakım ve güncellemeleri için gerekli gördükleri durumlarda, bildirim yapılmaksızın hizmeti geçici olarak durdurabilirler.
+- The developers may temporarily suspend the service without notice for necessary planned maintenance and updates.
 
-- Botun kullanımında yapılan ihlaller durumunda, geliştiriciler hizmeti askıya alma veya sonlandırma hakkına sahiptir.
+- In case of violations in the use of the bot, the developers reserve the right to suspend or terminate the service.
 
-## 6. Şartlarda Değişiklikler
-- Tamamen kendi takdirimize bağlı olarak, bu Şartları herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bir revizyon önemliyse, yeni şartların yürürlüğe girmesinden en az 30 gün önce bildirimde bulunmaya çalışacağız. Neyin önemli bir değişiklik teşkil ettiği tamamen bizim takdirimize bağlı olarak belirlenecektir. Bu revizyonlar yürürlüğe girdikten sonra Hizmetimize erişmeye veya kullanmaya devam ederek, revize edilmiş şartlara bağlı kalmayı kabul edersiniz. Yeni şartları kabul etmiyorsanız, lütfen Hizmeti kullanmayı bırakın.
+## 6. Changes to the Terms
+- We reserve the right to change or modify these Terms at any time at our sole discretion. If a revision is significant, we will try to notify you at least 30 days before the new terms take effect. What constitutes a significant change will be determined solely at our discretion. By continuing to access or use our Service after the revisions take effect, you agree to be bound by the revised terms. If you do not accept the new terms, please discontinue your use of the Service.
 
-## 7. İletişim ve Destek
-- Kullanıcılar, botla ilgili sorular, geri bildirimler veya destek talepleri için miyusuptime@gmail.com adresinden iletişim kurabilirler.
+## 7. Contact and Support
+- Users can contact us at miyusuptime@gmail.com for questions, feedback, or support requests related to the bot.
 
-## Sonuç
-- Bu hizmet şartları, botun güvenli, adil ve sorunsuz bir şekilde kullanılmasını sağlamak amacıyla oluşturulmuştur. Kullanıcılar, Hizmetimizi kullanarak bu şartları kabul etmiş sayılırlar. Herhangi bir sorunuz veya talebiniz varsa, hylusbot@gmail.com adresinden bize ulaşabilirsiniz.
+## Conclusion
+- These terms of service are created to ensure the safe, fair, and smooth use of the bot. By using our Service, users are considered to have accepted these terms. If you have any questions or requests, please reach us at hylusbot@gmail.com.
 
-**Son Düzenlenme Tarihi:** 24/10/2024
+**Last Edited:** 24/10/2024
 
-### Kullanıcılar, botu kullanarak bu şartları kabul etmiş sayılırlar.
+### Users are considered to have accepted these terms by using the bot.
