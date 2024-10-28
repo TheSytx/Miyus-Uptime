@@ -49,6 +49,6 @@ The meanings of the terms used in this section:
 ## Conclusion
 - These terms of service are created to ensure the safe, fair, and smooth use of the bot. By using our Service, users are considered to have accepted these terms. If you have any questions or requests, please reach us at hylusbot@gmail.com.
 
-**Last Edited:** 24/10/2024
+**Last Edited:** 28/10/2024
 
 ### Users are considered to have accepted these terms by using the bot.
