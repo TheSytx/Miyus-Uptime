@@ -1,41 +1,41 @@
-# Gizlilik Politikası
+# Privacy Policy
 
-Bu Gizlilik Politikası, "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını ve kullanıldığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
+This Privacy Policy has been created to clearly inform you about the data we collect and store during your use of the Discord bot known as "Uptime Boat" (Discord ID: "977247733234671676"), to explain how the data we collect is collected and used, and to explicitly state this.
 
-## Tanımlar
-- **Kullanıcı:** Discord üzerinden botu kullanan herhangi bir kullanıcı.
-- **Sunucu:** Botun kullanıldığı Discord sunucusu.
-- **ID:** Her kullanıcıya özel olarak oluşturulan ve kullanıcıyı temsil eden benzersiz bir kimlik.
-- **Link:** Kullanıcının belirttiği link veya adres.
+## Definitions
+- **User:** Any user who uses the bot via Discord.
+- **Server:** The Discord server where the bot is used.
+- **ID:** A unique identifier created specifically for each user, representing the user.
+- **Link:** The link or address specified by the user.
 
-## 1) Saklanan Verileriniz
-Botumuz, hizmetlerini sunmak ve geliştirmek amacıyla aşağıdaki bilgileri toplayabilir:
+## 1) Your Stored Data
+Our bot may collect the following information to provide and improve its services:
 
-1A) Komut Kullanılarak Saklanılan Veriler
-- Kullanıcı ID’si
-- Kullanılan Sunucu ID'si
-- Kullanıcının sisteme ekledigi link(ler)
+1A) Data Stored via Command Usage
+- User ID
+- Used Server ID
+- Links added by the user
 
-2B) Otomatik Olarak Saklanılan Veriler
-- **Kullanıcı Bilgileri:** Discord üzerindeki kullanıcı adı, kimlik numarası veya diğer tanımlayıcı bilgiler.
-- **Sunucu Bilgileri:** Botun kullanıldığı Discord sunucularına ilişkin bilgiler.
-- **Kullanım Bilgileri:** Botun kullanımıyla ilgili veriler, talepler ve etkileşimler.
+2B) Data Automatically Stored
+- **User Information:** Username, ID number, or other identifying information on Discord.
+- **Server Information:** Information related to the Discord servers where the bot is used.
+- **Usage Information:** Data related to the usage of the bot, requests, and interactions.
 
-## 2) Verilerin Toplanma Şekli
-Verileriniz, botun Discord ile olan etkileşimleri sırasında otomatik olarak toplanır. Botu kullanarak gerçekleştirdiğiniz komutlar ve talepler aracılığıyla verileriniz bot tarafından kaydedilir. Bu süreç, kullanıcıların doğrudan bir işlem yapmasını gerektirmeden gerçekleşir.
+## 2) How Data is Collected
+Your data is automatically collected during the bot's interactions with Discord. Your data is recorded by the bot through the commands and requests you make while using it. This process occurs without requiring users to take direct action.
 
-## 3) Veri Kullanımı
-Toplanan bilgiler yalnızca hizmetlerimizi sunmak, geliştirmek, güvenliği sağlamak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılır. Bu bilgiler asla üçüncü şahıslarla paylaşılmaz veya satılmaz.
+## 3) Data Usage
+The collected information is used solely to provide our services, improve them, ensure security, and enhance user experience. This information is never shared or sold to third parties.
 
-## 4) Veri Güvenliği
-Verilerinizin güvenliği önemlidir. Bu nedenle, en uygun güvenlik önlemlerini almak için çaba sarf ediyoruz. Verileriniz dışa kapalı bir veritabanında saklanır. Verilerinizin gizliliği hakkında endişeleriniz veya sorularınız varsa, miyusuptime@gmail.com adresine elektronik posta göndererek bize ulaşabilirsiniz. Yardım almak için bir destek talebi oluşturabilirsiniz.
+## 4) Data Security
+The security of your data is important. Therefore, we strive to take the most appropriate security measures. Your data is stored in a closed database. If you have any concerns or questions about your data's privacy, you can reach us by sending an email to miyusuptime@gmail.com. You can also create a support request for assistance.
 
-## 5) Veri Silme
-Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verilerinizin tamamen silinmesi için miyusuptime@gmail.com adresine elektronik posta göndererek talebinizi iletebilirsiniz. Talebiniz, alındıktan sonra 30 gün içerisinde işleme alınacaktır.
+## 5) Data Deletion
+You have the right to request the deletion of your data. To completely delete your data, you can send your request to miyusuptime@gmail.com. Your request will be processed within 30 days of receipt.
 
-## 6) Politikada Değişiklikler
-Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasın da yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
+## 6) Changes to the Policy
+We reserve the right to change or modify this Privacy Policy at any time at our sole discretion. Changes made to this Privacy Policy will be effective from the date and time of the revised Privacy Policy's publication. We recommend that you regularly review our Privacy Policy to stay informed about any changes.
 
-**Son Düzenlenme Tarihi:** 24/10/2024
+**Last Edited:** 28/10/2024
 
-### Bu gizlilik politikası, Discord botumuzun kullanımı sırasında toplanan bilgileri açıklar. Kullanıcılar, botumuzu kullanarak bu politikayı kabul etmiş sayılırlar.
+### This privacy policy explains the information collected during the use of our Discord bot. Users are considered to have accepted this policy by using our bot.
