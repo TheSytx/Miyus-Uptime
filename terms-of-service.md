@@ -47,8 +47,8 @@ The meanings of the terms used in this section:
 - Users can contact us at miyusuptime@gmail.com for questions, feedback, or support requests related to the bot.
 
 ## Conclusion
-- These terms of service are created to ensure the safe, fair, and smooth use of the bot. By using our Service, users are considered to have accepted these terms. If you have any questions or requests, please reach us at hylusbot@gmail.com.
+- These terms of service are created to ensure the safe, fair, and smooth use of the bot. By using our Service, users are considered to have accepted these terms. If you have any questions or requests, please reach us at miyusuptime@gmail.com.
 
-**Last Edited:** 28/10/2024
+**Last Edited:** 26/11/2024
 
 ### Users are considered to have accepted these terms by using the bot.
