@@ -1,17 +1,17 @@
-# Miyus Uptime, Uptime Kuralları
+# Uptime Rules
 
-Son Düzenlenme Tarihi: 15.02.2024
+**Last Updated:** November 30, 2024
 
-Bu Uptime Kuralları, "Miyus Uptime" (977247733234671676) olarak bilinen Discord botuna aittir.
+These Uptime Rules belong to the Discord bot known as "Uptime Boat" (977247733234671676).
 
-## Uptime Kuralları
+## Uptime Rules
 
-- Etik olmayan, yasadışı veya hukuka aykırı projeler eklemek yasaktır.
+- Adding unethical, illegal, or unlawful projects is strictly prohibited.
 
-- Botu laga sokacak, çalışmayan, sahte, geçersiz veya küfürlü projeler eklemek yasaktır.
+- Adding projects that are non-functional, fake, invalid, offensive, or that may cause the bot to lag is prohibited.
 
-- Uptime bot aktif etmek yasaktır.
+- Activating another uptime bot is prohibited.
 
-- Token, Self, Gen Botları aktif etmek yasaktır.
+- Activating Token, Self, or Gen Bots is prohibited.
 
-### Miyus Uptime Geliştiricileri bu maddeleri değiştirme/düzenleme hakkını saklı tutar.
+### Uptime Boat Developers reserve the right to modify or amend these rules.
